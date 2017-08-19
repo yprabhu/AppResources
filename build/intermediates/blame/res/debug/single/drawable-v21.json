@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4e158f6ce17a46abc085b36ebbd3a44e/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4e158f6ce17a46abc085b36ebbd3a44e/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4e158f6ce17a46abc085b36ebbd3a44e/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yash/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/4c3eeefde0dcbf1055a7551714f7fbbf/res/drawable-v21/notification_action_background.xml"
+    }
+]

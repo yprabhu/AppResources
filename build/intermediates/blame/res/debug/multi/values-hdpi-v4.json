@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/yash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4e158f6ce17a46abc085b36ebbd3a44e/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yash/Documents/Projects/AppResources/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/yash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4e158f6ce17a46abc085b36ebbd3a44e/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

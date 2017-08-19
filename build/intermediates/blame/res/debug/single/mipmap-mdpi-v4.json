@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_foreground.png",
+        "source": "/Users/yash/Documents/Projects/AppResources/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_round.png",
+        "source": "/Users/yash/Documents/Projects/AppResources/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yash/Documents/Projects/AppResources/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/yash/Documents/Projects/AppResources/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
