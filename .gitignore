@@ -28,6 +28,7 @@ proguard/
 
 *.iml
 .idea/
+.idea/libraries/
 
 reports/
 
