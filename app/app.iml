@@ -120,6 +120,5 @@
     <orderEntry type="library" scope="TEST" name="junit-4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="jsr305-2.0.1" level="project" />
     <orderEntry type="library" scope="TEST" name="runner-1.0.0" level="project" />
-    <orderEntry type="library" name="android-android-26" level="project" />
   </component>
 </module>

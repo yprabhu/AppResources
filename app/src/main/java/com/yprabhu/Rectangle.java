@@ -6,8 +6,6 @@ import java.util.Random;
 public class Rectangle {
 
     private int id;
-    private int color;
-    final Random random = new Random(System.currentTimeMillis());
 
     public Rectangle(int id) {
         this.id = id;

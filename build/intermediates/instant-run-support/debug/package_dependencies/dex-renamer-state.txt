@@ -1,4 +1,0 @@
-#Sat Aug 19 08:56:34 EDT 2017
-base.0=/Users/yash/Documents/Projects/AppResources/build/intermediates/transforms/dexMerger/debug/16
-renamed.0=classes.dex
-file.0=/Users/yash/Documents/Projects/AppResources/build/intermediates/transforms/dexMerger/debug/16/classes.dex

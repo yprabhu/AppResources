@@ -43,12 +43,16 @@ public class RectangleAdapter extends RecyclerView.Adapter<RectangleAdapter.View
 
     @Override
     public void onBindViewHolder(ViewHolder viewHolder, int position) {
-        Rectangle rectangle = rectangleList.get(position);
         View view = viewHolder.rectangleView;
-        if (position % 3 == 0) {
-            view.setBackgroundColor(context.getResources().getColor(R.color.colorPrimaryDark));
-        } else {
-            view.setBackgroundColor(context.getResources().getColor(R.color.colorAccent));
+        int count = 4;
+        if (position % count == 1) {
+            view.setBackgroundColor(getContext().getResources().getColor(R.color.pink));
+        } else if (position % count == 2) {
+            view.setBackgroundColor(getContext().getResources().getColor(R.color.green));
+        } else if (position % count == 3) {
+            view.setBackgroundColor(getContext().getResources().getColor(R.color.yellow));
+        } else if (position % count == 4) {
+            view.setBackgroundColor(getContext().getResources().getColor(R.color.blue));
         }
     }
 
