@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         rectangles = Rectangle.createListOfRectangles(GRID_NUM_OF_ITEMS);
         RectangleAdapter adapter = new RectangleAdapter(this, rectangles);
         recyclerView.setAdapter(adapter);
-        recyclerView.setLayoutManager(new GridLayoutManager(this, GRID_NUM_OF_COLUMNS));
+        recyclerView.setLayoutManager(new GridLayoutManager(this,
+                getResources().getInteger(R.integer.grid_number_of_columns)));
     }
 }
