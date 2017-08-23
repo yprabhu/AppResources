@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AppResources</string>
+    <string name="professor">Good news, everyone!</string>
+    <string name="leela">Bender, quit destroying the universe!</string>
+    <string name="eighties_guy">I was so busy being an \'80s guy, I forgot to cure it!</string>
 </resources>
