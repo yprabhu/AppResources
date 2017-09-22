@@ -3,4 +3,7 @@
     <string name="professor">Good news, everyone!</string>
     <string name="leela">Bender, quit destroying the universe!</string>
     <string name="eighties_guy">I was so busy being an \'80s guy, I forgot to cure it!</string>
+    <string name="go_to_texts">Go to Texts</string>
+    <string name="go_to_grid">Go to Grid</string>
+
 </resources>

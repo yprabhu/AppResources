@@ -1,71 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.yprabhu.MainActivity">
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.yprabhu.GridActivity">
 
-    <TextView
-        android:padding="@dimen/spacing_normal"
-        android:visibility="gone"
-        android:id="@+id/text_for_fonts"
-        android:layout_width="match_parent"
+    <Button
+        android:id="@+id/grid"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/spacing_medium"
-        android:layout_alignParentTop="true"
-        android:fontFamily="@font/raleway"
-        android:text="@string/professor"
-        android:textColor="@android:color/black"
-        android:autoSizeTextType="none"
-        app:autoSizeTextType="none"
-        android:textSize="24sp" />
+        android:text="@string/go_to_grid"
+        android:layout_gravity="center"/>
 
-    <TextView
-        android:padding="@dimen/spacing_normal"
-        android:visibility="gone"
-        android:id="@+id/text_for_autosizing"
-        android:layout_below="@id/text_for_fonts"
-        android:layout_width="match_parent"
+    <Button
+        android:id="@+id/text"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/spacing_medium"
-        android:fontFamily="@font/raleway"
-        android:text="@string/leela"
-        android:textColor="@android:color/black"
-        android:autoSizeMinTextSize="24sp"
-        app:autoSizeMinTextSize="24sp"
-        android:autoSizeMaxTextSize="48sp"
-        app:autoSizeMaxTextSize="48sp"
-        android:autoSizeStepGranularity="1sp"
-        app:autoSizeStepGranularity="1sp"/>
+        android:text="@string/go_to_texts"
+        android:layout_gravity="center"/>
 
-    <TextView
-        android:padding="@dimen/spacing_normal"
-        android:visibility="gone"
-        android:id="@+id/text_for_resets"
-        android:layout_below="@id/text_for_autosizing"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/spacing_medium"
-        android:fontFamily="@font/raleway"
-        android:text="@string/eighties_guy"
-        android:textColor="@android:color/black"
-        android:autoSizeTextType="none"
-        app:autoSizeTextType="none"
-        android:autoSizePresetSizes="@array/autosize_text_sizes"
-        app:autoSizePresetSizes="@array/autosize_text_sizes"
-        />/>
-
-    <android.support.v7.widget.RecyclerView
-        android:layout_centerInParent="true"
-        android:id="@+id/recyclerView"
-        android:layout_below="@id/hero_view"
-        android:layout_marginStart="@dimen/spacing_normal"
-        android:layout_marginEnd="@dimen/spacing_normal"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center" />
-</RelativeLayout>
-
-
+</LinearLayout>
