@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppResources</string>
+    <string name="professor">अच्छी खबर है, हर कोई!</string>
+    <string name="leela">ब्रह्मांड को नष्ट करने की कोशिश करना छोड़ देना</string>
+    <string name="eighties_guy">मैं एक 80 के दशक में बहुत व्यस्त हूं, मैं इसे ठीक करने में भूल गया!</string>
+    <string name="go_to_texts">Go to Texts</string>
+    <string name="go_to_grid">Go to Grid</string>
+</resources>
